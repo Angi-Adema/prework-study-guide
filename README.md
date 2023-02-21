@@ -6,6 +6,10 @@ The PreWork Study Guide Webpage was created to help the bootcamp student have a 
 
 In the PreWork portion of the bootcamp, we learned about CSS and HTML and how these form the frame of a website and give the website character. With JavaScript we were able to add functionality to the webpage. Throughout the whole process, we learned about Git and GitHub and how to create a repository with which to push projects to in order to begin to understand how to work collaboratively on a project.
 
+[Deployed Site](https://github.com/Angi-Adema/prework-study-guide)
+
+![Prework-Study-Guide Screenshot](./assets/preworkStudyGuideSS.png)
+
 ## Installation
 
 N/A
